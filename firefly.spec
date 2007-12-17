@@ -10,7 +10,6 @@ Source0: %{name}-%{version}.tar.bz2
 License: GPL
 Group: Communications
 URL: http://somwhere.com
-BuildRoot: %{_tmppath}/%{name}
 Requires: mod_php, php-gd, php-pgsql, postgresql, postgresql-server
 Buildarch: noarch
 
