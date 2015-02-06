@@ -1,6 +1,6 @@
 %define name firefly
 %define version 1.1.1
-%define release %mkrel 7
+%define release 8
 
 Summary: Multi-user professional help desk system
 Name: %{name}
